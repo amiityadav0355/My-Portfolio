@@ -101,3 +101,8 @@
     text-align: justify;
   }
 }
+@media screen and (max-width: 768px) {
+  .certificates-grid .details-container {
+    flex: 1 1 100%;
+  }
+}
